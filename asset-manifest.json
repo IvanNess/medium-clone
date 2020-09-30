@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.js": "/medium-clone/static/js/main.ffc492ed.chunk.js",
-    "main.js.map": "/medium-clone/static/js/main.ffc492ed.chunk.js.map",
+    "main.js": "/medium-clone/static/js/main.ae0b4649.chunk.js",
+    "main.js.map": "/medium-clone/static/js/main.ae0b4649.chunk.js.map",
     "runtime-main.js": "/medium-clone/static/js/runtime-main.2a2926be.js",
     "runtime-main.js.map": "/medium-clone/static/js/runtime-main.2a2926be.js.map",
     "static/js/2.7bac3ac9.chunk.js": "/medium-clone/static/js/2.7bac3ac9.chunk.js",
     "static/js/2.7bac3ac9.chunk.js.map": "/medium-clone/static/js/2.7bac3ac9.chunk.js.map",
     "index.html": "/medium-clone/index.html",
-    "precache-manifest.2209128e371dbf1f1e121807f47aeeb2.js": "/medium-clone/precache-manifest.2209128e371dbf1f1e121807f47aeeb2.js",
+    "precache-manifest.161aaa3b8dc68d30e2cf94f28bd579e0.js": "/medium-clone/precache-manifest.161aaa3b8dc68d30e2cf94f28bd579e0.js",
     "service-worker.js": "/medium-clone/service-worker.js",
     "static/js/2.7bac3ac9.chunk.js.LICENSE.txt": "/medium-clone/static/js/2.7bac3ac9.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.2a2926be.js",
     "static/js/2.7bac3ac9.chunk.js",
-    "static/js/main.ffc492ed.chunk.js"
+    "static/js/main.ae0b4649.chunk.js"
   ]
 }
